@@ -48,7 +48,11 @@
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
 		</dependency>
-	
+	<!-- pagehelpe依赖-->
+  <dependency>
+  <groupId>com.github.pagehelper</groupId>
+	<artifactId>pagehelper</artifactId>
+  </dependency>
   
   <!-- spring的依赖 -->
 		<!-- Spring -->
